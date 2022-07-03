@@ -99,6 +99,26 @@ Finally the graph for the monthly item sale through the years
 
 
 
+# Insights
+
+1. It is observed that the first two items (Black Velvet, 18.0% and Titos Handmade Vodka, 14.9%) had comparatively larger amounts (123,375,523.3 and 101,647,763.3 respectively) creating quite a gab between then and the next items. Those two alone contributes more than a quarter of the entire sum. Further queries should be built to investigate if the higher values are not due to higher unit prices but instead higher unit sale.
+2. The Black Velvet performed best through the years because looking at the trend, it startes off with the highest of all and maintains an almost steady pattern through the years and finishes second and the end to Titos Handmade Vodka.
+3. Titos Handmade Vodka started with the least total in 2012 but maintained a stead increase in sale through the years and finishes in 2021 as the highest with more than twice the amount of the second item, Black Velvet. Further analyses will be required to find out if the steady rise in amount is not due to a conresponding rise in unit price over the period.
+4. The Captain morgan spiced Rum appears to have been sold more than the Camptain morgan original even though sale of the Spiced flavour discontinued in 2019. We cannot still conclude right away and say that its a prefared choice due to the total amount because the data shows that each item has an unit price and so much querys could be writen to verify the unit price variation. This will bring more clarity and certainty as to wheather the spiced flavour is a prefered choice or it has a higher price.
+5. Not only the Captain morgan spiced rum discontinued sale at a point, the Jack Daniels Old #7 Black Lbl and the Crown Royal Canadian Whisky also discontinued sale in the year 2018. Jack Daniels Old #7 Black Lbl though discontinuing sale in 2019 wasnt part of the least performing items according to the sales total.
+6. Throught the months, there was a peak in October for all item sales but Titos Handmade Vodka, whiles in november there was a dip in all sales except for Titos Handmade Vodka.
+7. Generally, spring season had the least sales amount whiles the fall season had the highest sale amount.
+
+
+
+# Recommendation
+
+1. The top 10 items should be made available in stock, further analysis should go into the insights 1 to 4 for a more effective action plan that can bring in more income.
+2. Reintroduction of the Jack Daniels Old #7 Black Lbl and the Captain Morgan Spiced Rum is recommened since as it stands, thoUgh both items we no more on sale at a pont, they contributed a good amount in total even more than other items with sales running through all the years.
+3. It is mostly expected that during the holiday season, parties and occassions cause a rise in the purchase of beverages but it was winter wasn't an example in this scinario, thus a compaingn and promotional sale on the products is recommended to bring cause more sales in the season.
+
+
+
 
 
 
